@@ -61,7 +61,3 @@ HELLO WORLD THIS IS MY PROFILE<h1 align="center">Hi 👋, I'm JOTHIKA R</h1>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
